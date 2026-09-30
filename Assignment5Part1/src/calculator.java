@@ -1,3 +1,11 @@
+/*
+ * Author:      Anysenko Denys
+ * Course:      SDT 100 Principles of Programming
+ * Assignment:  Homework 5 Part 1
+ * Instructor:  Dr. V. Kolesnikov
+ * Date:        September 27, 2026
+ */
+
 
 import calculations.calculations;
 import java.util.Scanner;
